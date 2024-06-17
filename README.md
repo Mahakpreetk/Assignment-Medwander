@@ -1,10 +1,10 @@
 # Description
 This project showcases a web application developed using the SQL, Express, React, and Node.js stack. The application features dynamic forms, database operations, data synchronization with an Excel sheet, and user-friendly functionalities such as form validation, local data storage, and responsive design.
-[Repository Link](https://github.com/Mahakpreetk/Medwander-task/tree/master)
+[Repository Link](https://github.com/Mahakpreetk/Assignment-Medwander)
 
  ## Installation Steps
 ### 1) Clone the repository to your local machine:
-git clone https://github.com/Mahakpreetk/Medwander-task/tree/master
+git clone https://github.com/Mahakpreetk/Assignment-Medwander
 
 ### 2) Navigate to the project directory:
 cd medwander
